@@ -1,13 +1,13 @@
-#  💻 IBM-Project-19308-1659695939
+#  💻 IBM-Project-53425- 161402781
 ## 🤖 AI based discourse for Banking Industry
 ### Technology: Artificial Intelligence
-**Team ID:** PNT2022TMID27838
+**Team ID:** PNT2022TMID46259
 
-**Batch:** B7 - 1A3E 
+**Batch:**  B1-1M3E 
 
-**Team Leader:** Prathyush Krishnen J
+**Team Leader:** Bubvaneshwari V
 
-**Team Members:** Abhishek B, Adithya R, Ramkumar K
+**Team Members:** Selvam C
 
 **Project Link:** 👉 https://ibm-chatbot.prathkrish.repl.co/ 👈
 
